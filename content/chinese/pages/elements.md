@@ -1,239 +1,72 @@
 ---
-title: "Elements"
+title: "学术论文"
 # meta title
 meta_title: ""
 # meta description
-description: "This is meta description"
+description: "学术论文"
 # save as draft
 draft: false
 ---
 
 {{< toc >}}
 
-Here is an example of headings. You can use this heading by the following markdown rules. For example: use `#` for heading 1 and use `######` for heading 6.
 
-# Heading 1
 
-## Heading 2
 
-### Heading 3
 
-#### Heading 4
 
-##### Heading 5
 
-###### Heading 6
+## 期刊论文
 
-<hr>
+1. Li Dong, Jiantao Zhou, Yuan Yan Tang, “Content-Adaptive Noise Estimation for Color Images with Cross-Channel Noise Modeling”, IEEE Transactions on Image Processing (T-IP), vol. 28, no. 8, pp. 4161 - 4176, Aug. 2019.(CCF-A)
 
-### Emphasis
+2. Li Dong, Jiantao Zhou, Yuan Yan Tang, “Effective and Fast Estimation for Image Sensor Noise via Constrained Weighted Least Squares”,IEEE Transactions on Image Processing (T-IP), vol 27, no. 6, pp. 2715-2730, June. 2018.(CCF-A)
 
-The emphasis, aka italics, with _asterisks_ or _underscores_.
+3. Li Dong, Jiantao Zhou, Yuan Yan Tang, “Noise Level Estimation for Natural Images Based on Scale-Invariant Kurtosis and Piecewise Stationarity”, IEEE Transactions on Image Processing (T-IP), vol. 26, no. 2, pp. 1017-1030, Feb. 2017.(CCF-A)
 
-Strong emphasis, aka bold, with **asterisks** or **underscores**.
+4. Li Dong,Jiantao Zhou, Weiwei Sun, Diqun Yan, Rangding Wang, “First Steps Toward Concealing the Traces Left by Reversible Image Data Hiding”, IEEE Transactions on Circuits and Systems II: Express Briefs (T-CAS II), vol. 67, no. 5, pp. 951-955, May 2020.
 
-The combined emphasis with **asterisks and _underscores_**.
+5. Weiwei Sun, Jiantao Zhou, Li Dong, Jinyu Tian, Jun Liu, “Optimal Pre-filtering for Improving Facebook Shared Images”,IEEE Transactions on Image Processing (T-IP), Accepted, June, 2021.(CCF-A)
 
-Strike through uses two tildes. ~~Scratch this.~~
+6. Jiantao Zhou, Weiwei Sun, Li Dong, Xianming Liu, Oscar C. Au, Yuan Yan Tang, “Secure Reversible Image Data Hiding over Encrypted Domain via Key Modulation”, IEEE Transactions on Circuits and System for Video Technology (T-CSVT) , vol. 26, no. 3, pp. 441–452, Mar. 2016. (CCF-B)
 
-<hr>
+7. Yuanman Li, Jiantao Zhou, Junyang Chen, Jinyu Tian, Li Dong, Xia Li. “Robust Matrix Factorization via Minimum Weighted Error Entropy Criterion”, IEEE Transactions on Computational Social Systems (T-CSS) . Accepted, Dec. 2021.(CCF-C)
 
-### Button
+8. Donghua Wang,Li Dong, Rangding Wang, Diqun Yan “Fast Speech Adversarial Example Generation for Keyword Spotting System with Conditional GAN”, Accepted to Computer Communication, August 2021. (CCF-C)
 
-{{< button label="Button" link="/" style="solid" >}}
+9. Yuzhen Lin, Rangding Wang, Diqun Yan, Li Dong,“Tackling the Cover Source Mismatch Problem in Audio Steganalysis with Unsupervised Domain Adaptation”, Accepted to IEEE Signal Processing Letters (SPL), August 2020. (CCF-C)
 
-<hr>
+10. Diqun Yan, Xiaowen Li, Li Dong, Rangding Wang, “An Antiforensic Method against AMR Compression Detection”, Security and Communication Networks, vol. 2020, 02 Sep, 2020. (CCF-C)
 
-### Link
+11. Donghua Wang, Li Dong, Rangding Wang, Diqun Yan, Jie Wang, “Targeted Speech Adversarial Example Generation with Generative Adversarial Network”, IEEE Access , vol. 8, pp. 124503 – 124513, June. 2020.
 
-[I'm an inline-style link](https://www.google.com)
+12. Jiacheng Deng, Li Dong, Rangding Wang, Rui Yang, Diqun Yan, "Decision-Based Attack to Speaker Recognition System via Local Low-Frequency Perturbation," IEEE Signal Processing Letters (SPL), vol. 29, pp. 1432-1436, June 2022. (CCF-C)
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+13. Hui Xiao, Li Dong, Hao Xu, Shuibo Fu, Diqun Yan, Kangkang Song, Chengbin Peng, “Semi-Supervised Semantic Segmentation with Cross Teacher Training”, Neurocomputing, vol 508, pp. 36-46. Aug. 2022. (CCF-C)
 
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
+    
 
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
+------
 
-[You can use numbers for reference-style link definitions][1]
+## 会议论文
 
-Or leave it empty and use the [link text itself].
+1. Jiale Chen, Li Dong, Rangding Wang, Diqun Yan, Weiwei Sun and Hang-Yu Fan, “Physical Anti-Copying Semi-Robust Random Watermarking for QR Code”, International Workshop on Digital-forensics and Watermarking (IWDW 2022), 18-19 Nov. 2022. Oral Presentation.
+2. JiaCheng Deng, Terui Mao, Diqun Yan, Li Dong, Mingyu Dong, “Detection of Synthetic Speech Based on Spectrum Defects”, ACM Multimedia-International Workshop on Deepfake Detection for Audio Multimedia (ACM MM-Workshop), Oct. 14, 2022. Oral Presentation. (CCF-A Workshop)
+3. Weipeng Liang, Li Dong, Rangding Wang, Diqun Yan, Yuanman Li, “Robust Document Image Forgery Localization Against Image Blending”, International Conferences on Trust, Security and Privacy in Computing and Communications (TrustCom), Accepted. Oral Presentation, 2022. (CCF-C)
+4. Ce Xie, Yuanman Li, Rongqin Liang, Li Dong, and Xia Li, “Synchronous Bi-Directional Pedestrian Trajectory Prediction with Error Compensation”, Asian Conference on Computer Vision (ACCV), Poster, Nov. 2022. (CCF-C)
+5. Ning Lu, Li Dong, Diqun Yan, Xianliang Jiang, “On Attacking Deep Image Quality Evaluator via Spatial Transform”,IEEE International Conference on Systems, Man, and Cybernetics (SMC) , Oral Presentation, 2022. (CCF-C)
+6. Li Dong, Jiale Chen, Chengbin Peng, Yuanman Li, Weiwei Sun, “Watermark-preserving Keypoint Enhancement for Screen-Shooting Resilient Watermarking”, IEEE International Conference on Multimedia & Expo (ICME), July 18-22, 2022, Taipei, Taiwan. Oral Presentation (Top 15% Paper). (CCF-B)
+7. Li Dong, Jie Wang, Rangding Wang, Yuanman Li, Weiwei Sun, “Towards Image Data Hiding via Facial Stego Synthesis with Generative Model”. International Joint Conference on Artificial Intelligence - International Workshop on Safety & Security of Deep Learning (IJCAI -Workshop), August 21-26, 2021. Oral Presentation. (CCF-A Workshop)
+8. Li Dong, Jiantao Zhou, Weiwei Sun, Diqun Yan, Rangding Wang, “First Steps Toward Concealing the Traces Left by Reversible Image Data Hiding”, IEEE International Symposium on Circuits & Systems (ISCAS), May 17-20, 2020. Seville, Spain. Lecture Presentation. (CCF-C)
+9. Jie Wang, Rangding Wang, Li Dong, and Diqun Yan, Robust, Imperceptible and End-To-End Audio Steganography Based on CNN , International Conference on Security and Privacy in Digital Economy (SPDE), Quzhou, China, Oct. 30 – Nov. 1, 2020. Best Student Paper Award
+10. Li Dong, Jiantao Zhou, Cuiming Zou, Yulong Wang, “Iterative First-Order Reverse Image Filtering”, ACM TURC Conference on Artificial Intelligence and Security (TURC-AIS), 17-19 May 2019, Chengdu, China.
+11. Li Dong, Jiantao Zhou, Tao Dai, “Color Image Noise Covariance Estimation with Cross-Channel Image Noise Modeling”, IEEE International Conference on Multimedia and Expo (ICME), 23-27 July 2018, San Diego, USA. Oral (Top 15% Paper)(CCF-B)
+12. Li Dong, Jiantao Zhou, “Locally Adaptive Noise Covariance Estimation for Color Images”, International Forum on Digital TV and Wireless Multimedia Communications (IFTC), pp. 91-105, 20-23 September, Shanghai, China. Oral.
+13. Li Dong, Jiantao Zhou, Guangtao Zhai, “Efficient Image Sensor Noise Estimation via Iterative Re-weighted Least Square”,IEEE International Conference on Multimedia and Expo (ICME), 10-15 July 2017, Hong Kong, China. (CCF-B)
+14. Li Dong, Jiantao Zhou, “Estimating Noise Level for Natural Images Based on Scale-Invariant Kurtosis and Piecewise Stationarity”, IEEE International Conference on Image Processing (ICIP), pp. 4393-4397, 25-28 September 2016, Phoenix, U.S. (CCF-C)
+15. Li Dong,Jiantao Zhou, “Noise-Robust SLIC Superpixel for Natural Images”, IEEE International Conference on Cloud Computing and Big Data (CCBD), pp. 335-340, 16-18 November 2016, Macau, China.
+16. Li Dong,Jiantao Zhou, Yuan Yan Tang, Xianming Liu, “Estimation of Capacity Parameters for Dynamic Histogram Shifting (DHS)-based Reversible Image Watermarking”, IEEE International Conference on Multimedia and Expo (ICME), pp. 1-6, 14-18 July 2014. (CCF-B)
+17. Li Dong, Jian Wang, Yuanman Li, Yuan Yan Tang, “Sector Projection Fourier Descriptor for Character Recognition”, IEEE International Conference on Cybernetics, Oral Presentation, pp.162-167, 13-15 June 2013, Lausanne, Switzerland.
 
-URLs and URLs in angle brackets will automatically get turned into links.
-<http://www.example.com> or <http://www.example.com> and sometimes
-example.com (but not on Github, for example).
 
-Some text to show that the reference links can follow later.
 
-[arbitrary case-insensitive reference text]: https://www.themefisher.com
-[1]: https://gethugothemes.com
-[link text itself]: https://www.getjekyllthemes.com
-
-<hr>
-
-### Paragraph
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus, facilis placeat pariatur! Voluptatem, sed harum pariatur adipisci voluptates voluptatum cumque, porro sint minima similique magni perferendis fuga! Optio vel ipsum excepturi tempore reiciendis id quidem? Vel in, doloribus debitis nesciunt fugit sequi magnam accusantium modi neque quis, vitae velit, pariatur harum autem a! Velit impedit atque maiores animi possimus asperiores natus repellendus excepturi sint architecto eligendi non, omnis nihil. Facilis, doloremque illum. Fugit optio laborum minus debitis natus illo perspiciatis corporis voluptatum rerum laboriosam.
-
-<hr>
-
-### Ordered List
-
-1. List item
-2. List item
-3. List item
-4. List item
-5. List item
-
-<hr>
-
-### Unordered List
-
-- List item
-- List item
-- List item
-- List item
-- List item
-
-<hr>
-
-### Notice
-
-{{< notice "note" >}}
-This is a simple note.
-{{< /notice >}}
-
-{{< notice "tip" >}}
-This is a simple tip.
-{{< /notice >}}
-
-{{< notice "info" >}}
-This is a simple info.
-{{< /notice >}}
-
-{{< notice "warning" >}}
-This is a simple warning.
-{{< /notice >}}
-
-<hr>
-
-### Tab
-
-{{< tabs >}}
-{{< tab "Tab 1" >}}
-
-#### Did you come here for something in particular?
-
-Did you come here for something in particular or just general Riker-bashing? And blowing into maximum warp speed, you appeared for an instant to be in two places at once. We have a saboteur aboard. We know you’re dealing in stolen ore. But I wanna talk about the assassination attempt on Lieutenant Worf.
-
-{{< /tab >}}
-
-{{< tab "Tab 2" >}}
-
-#### I wanna talk about the assassination attempt
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-
-{{< /tab >}}
-
-{{< tab "Tab 3" >}}
-
-#### We know you’re dealing in stolen ore
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo
-
-{{< /tab >}}
-{{< /tabs >}}
-
-<hr>
-
-### Accordions
-
-{{< accordion "Why should you need to do this?" >}}
-
-- Lorem ipsum dolor sit amet consectetur adipisicing elit.
-- Lorem ipsum dolor sit amet consectetur adipisicing elit.
-- Lorem ipsum dolor sit amet consectetur
-
-{{< /accordion >}}
-
-{{< accordion "How can I adjust Horizontal centering" >}}
-
-- Lorem ipsum dolor sit amet consectetur adipisicing elit.
-- Lorem ipsum dolor sit amet consectetur adipisicing elit.
-- Lorem ipsum dolor sit amet consectetur
-
-{{< /accordion >}}
-
-{{< accordion "Should you use Negative margin?" >}}
-
-- Lorem ipsum dolor sit amet consectetur adipisicing elit.
-- Lorem ipsum dolor sit amet consectetur adipisicing elit.
-- Lorem ipsum dolor sit amet consectetur
-
-{{< /accordion >}}
-
-<hr>
-
-### Code and Syntax Highlighting
-
-This is an `Inline code` sample.
-
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
-
-```python
-s = "Python syntax highlighting"
-print s
-```
-
-<hr>
-
-### Blockquote
-
-> Did you come here for something in particular or just general Riker-bashing? And blowing into maximum warp speed, you appeared for an instant to be in two places at once.
-
-<hr>
-
-### Tables
-
-| Tables        |      Are      |  Cool |
-| ------------- | :-----------: | ----: |
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      |   centered    |   $12 |
-| zebra stripes |   are neat    |    $1 |
-
-<hr>
-
-### Image
-
-{{< image src="images/image-placeholder.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
-
-<hr>
-
-### Gallery
-
-{{< gallery dir="images/gallery" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
-
-<hr>
-
-### Slider
-
-{{< slider dir="images/gallery" class="max-w-[600px] ml-0" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
-
-<hr>
-
-### Youtube video
-
-{{< youtube ResipmZmpDU >}}
-
-<hr>
-
-### Custom video
-
-{{< video src="https://www.w3schools.com/html/mov_bbb.mp4" width="100%" height="auto" autoplay="false" loop="false" muted="false" controls="true" class="rounded-lg" >}}

@@ -10,4 +10,4 @@ weight = 1
 languageName = "En"
 languageCode = "en-us"
 contentDir = "content/english"
-weight = 0
+weight = 1
