@@ -1,0 +1,67 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "主页"
+url = "/"
+weight = 1
+
+[[main]]
+name = "关于"
+url = "about/"
+weight = 2
+
+[[main]]
+name = "论文"
+url = "elements/"
+weight = 3
+
+[[main]]
+name = "成员"
+url = "authors/"
+weight=4
+
+[[main]]
+name = "项目"
+url = "blog/"
+weight = 5
+
+[[main]]
+name = "联系"
+url = "contactus/"
+weight = 6
+
+
+[[main]]
+name = "Pages"
+hasChildren = true
+weight = 7
+
+[[main]]
+parent = "Pages"
+name = "Categories"
+url = "categories/"
+
+[[main]]
+parent = "Pages"
+name = "404 Page"
+url = "404/"
+
+
+# footer menu
+[[footer]]
+name = "About"
+url = "about/"
+weight = 1
+
+[[footer]]
+name = "Elements"
+url = "elements/"
+weight = 2
+
+[[footer]]
+name = "Privacy Policy"
+url = "privacy-policy/"
+weight = 3
+
+
