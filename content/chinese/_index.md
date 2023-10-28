@@ -41,8 +41,8 @@ features:
       - "近年来在国际期刊和会议上发表/接受论文20余篇，领域权威 IEEE Transactions期刊7篇。"
     button:
       enable: true
-      label: "更多信息参见个人主页"
-      link: "https://nbudongli.github.io/"
+      label: "更多信息"
+      link: "introduction_d/"
   
 
 
@@ -62,8 +62,8 @@ features:
       - "IEEE Trans. Information Forensics and Security, IEEE Trans. Multimedia, IEEE Signal Processing Letters, Pattern Recognition等期刊审稿人"
     button:
       enable: true
-      label: "更多信息参见个人主页"
-      link: "http://www.yandiqun.com/"
+      label: "更多信息"
+      link: "introduction_y/"
 
 
 ---

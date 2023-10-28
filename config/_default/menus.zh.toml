@@ -12,8 +12,8 @@ url = "about/"
 weight = 6
 
 [[main]]
-name = "论文"
-url = "elements/"
+name = "导师"
+url = "introduction/"
 weight = 2
 
 [[main]]
@@ -25,6 +25,11 @@ weight=3
 name = "项目"
 url = "blog/"
 weight = 4
+
+[[main]]
+name = "论文"
+url = "elements/"
+weight = 5
 
 [[main]]
 name = "联系"
@@ -46,10 +51,7 @@ parent = "更多"
 name = "最新动态"
 url = "news/"
 
-[[main]]
-parent = "更多"
-name = "导师介绍"
-url = "introduce/"
+
 
 # footer menu
 [[footer]]

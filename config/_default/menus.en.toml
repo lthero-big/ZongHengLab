@@ -12,7 +12,7 @@ url = "about/"
 weight = 6
 
 [[main]]
-name = "导师介绍"
+name = "导师"
 url = "introduction/"
 weight = 2
 
