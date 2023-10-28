@@ -1,6 +1,6 @@
 ---
 enable: true
-title: "团队成员"
+title: "成员说"
 description: "好耶~~~~~~~~~~~~~~~~~~"
 
 # Testimonials
