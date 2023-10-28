@@ -11,7 +11,7 @@ logo_height = "32px"
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
 # logo text will only show when logo is missing.
-logo_text = "纵横Lab"
+logo_text = "纵横智能研究所"
 # navbar fixed to top
 navbar_fixed = true
 # theme-mode
@@ -27,7 +27,7 @@ google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
 custom_script = ""
 # copyright
-copyright = "Designed with ❤️ by [lthero](https://blog.lthero.cn)"
+copyright = "Made with ❤️ by [lthero](https://blog.lthero.cn)"
 
 # Preloader
 # preloader module: https://github.com/gethugothemes/hugo-modules/tree/master/components/preloader
@@ -38,15 +38,15 @@ preloader = "" # use jpg, png, svg or gif format.
 # Navigation button
 [navigation_button]
 enable = true
-label = "有问题? "
-link = "contact"
+label = "加入我们 "
+link = "contactus"
 
 # search
 # search module: https://github.com/gethugothemes/hugo-modules/tree/master/search
 [search]
 enable = true
 primary_color = "#121212"
-include_sections = ["blog","contact","elements","about"]
+include_sections = ["blog","contact","elements","about","authors","categories"]
 show_image = true
 show_description = true
 show_tags = true
@@ -56,8 +56,8 @@ show_categories = true
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["Dongli", "lthero"]
-description = "DongLi's Lab"
+keywords = ["ZongHengLab", "lthero"]
+description = "ZongHengLab"
 author = "lthero"
 image = "images/og-image.png"
 

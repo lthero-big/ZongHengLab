@@ -1,6 +1,6 @@
 ---
 title: ""
-meta_title: "About"
+meta_title: "Introduce"
 description: "this is meta description"
 image: "/images/avator.png"
 draft: false

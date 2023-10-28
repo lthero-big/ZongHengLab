@@ -4,6 +4,7 @@ banner:
   title: "纵横智能研究所"
   content: "研究方向：人工智能数据与模型安全、数字多媒体取证以及信息隐藏
   <br>
+  <br>
   图像建模和处理、多媒体取证和安全"
   image: "/images/banner.png"
   button:
