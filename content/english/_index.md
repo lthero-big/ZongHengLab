@@ -42,7 +42,7 @@ features:
     button:
       enable: true
       label: "更多信息"
-      link: "introduction_d/"
+      link: "/about/about_d/"
   
 
 
@@ -63,7 +63,7 @@ features:
     button:
       enable: true
       label: "更多信息"
-      link: "introduction_y/"
+      link: "/about/about_y/"
 
 
 ---

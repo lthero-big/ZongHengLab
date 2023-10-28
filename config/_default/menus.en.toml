@@ -7,14 +7,10 @@ url = "/"
 weight = 1
 
 [[main]]
-name = "关于"
-url = "about/"
-weight = 6
-
-[[main]]
 name = "导师"
-url = "introduction/"
+url = "about/"
 weight = 2
+
 
 [[main]]
 name = "成员"
@@ -34,12 +30,12 @@ weight = 5
 [[main]]
 name = "联系"
 url = "contactus/"
-weight = 5
+weight = 6
 
 [[main]]
 name = "更多"
 hasChildren = true
-weight = 6
+weight = 7
 
 [[main]]
 parent = "更多"
