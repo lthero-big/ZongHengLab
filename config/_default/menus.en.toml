@@ -49,7 +49,7 @@ url = "news/"
 [[main]]
 parent = "更多"
 name = "导师介绍"
-url = "introduce/"
+url = "introduction/"
 
 # footer menu
 [[footer]]

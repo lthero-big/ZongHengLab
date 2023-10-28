@@ -1,12 +1,14 @@
 ---
-title: ""
-meta_title: "About"
-description: "this is meta description"
-image: "/images/avator.png"
+title: "导师介绍"
+# meta title
+meta_title: ""
+# meta description
+description: "导师介绍"
+# save as draft
 draft: false
 ---
 
-
+{{< toc >}}
 
 
 
@@ -135,3 +137,4 @@ draft: false
 Email: dongli@nbu.edu.cn
 
 通信地址：宁波大学杨咏曼楼505
+
