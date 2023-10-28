@@ -1,10 +1,16 @@
 ---
-title: "董理-宁波大学"
+title: ""
 meta_title: "About"
 description: "this is meta description"
 image: "/images/avator.png"
 draft: false
 ---
+
+
+
+
+
+# 董理 
 
 ## 基本信息
 

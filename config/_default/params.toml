@@ -2,8 +2,8 @@
 # favicon
 favicon = "images/favicon.png"
 # logo
-logo = "images/logos.png"
-logo_darkmode = "images/logo-darkmodes.png"
+logo = "images/lab_logo.png"
+logo_darkmode = "images/lab_logo.png"
 # use `px` or `x` with logo_width, example: "100px".
 # Note: logo_width is not work with .svg file
 logo_width = "160px"
@@ -11,7 +11,7 @@ logo_height = "32px"
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
 # logo text will only show when logo is missing.
-logo_text = "DongLi"
+logo_text = "纵横Lab"
 # navbar fixed to top
 navbar_fixed = true
 # theme-mode
