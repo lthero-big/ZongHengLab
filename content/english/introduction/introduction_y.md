@@ -1,11 +1,20 @@
 ---
-title: "严迪群导师介绍"
-# meta title
-meta_title: ""
-# meta description
-description: "导师介绍"
-# save as draft
-draft: false
+title: 严迪群
+email: johndoe@email.com
+image: "/images/avatars/281.jpg"
+description: this is meta description
+social:
+  - name: github
+    icon: fa-brands fa-github
+    link: https://github.com
+
+  - name: twitter
+    icon: fa-brands fa-twitter
+    link: https://twitter.com
+
+  - name: linkedin
+    icon: fa-brands fa-linkedin
+    link: https://linkedin.com
 ---
 
 ## 严迪群
